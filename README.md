@@ -12,13 +12,13 @@
 <div align="center">
 
 <a href="https://github.com/Nico4652">
-  <img src="https://img.shields.io/badge/🐙_GitHub_Profile-181717?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
 </a>
 
-     
+        
 
 <a href="https://www.linkedin.com/in/TU-LINKEDIN">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
 
 </div>
