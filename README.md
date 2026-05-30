@@ -1,7 +1,5 @@
 <div align="center">
 
-<img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-
 # 👋 Hola, soy Nicolás Alexander Vega
 
 ### Backend Developer | .NET Developer
@@ -66,7 +64,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" />
 
 </div>
 
@@ -74,14 +71,18 @@
 
 ## 🏗️ Software Architecture
 
-* ✅ Clean Architecture
-* ✅ Domain Driven Design (DDD)
-* ✅ CQRS
-* ✅ SOLID Principles
-* ✅ REST APIs
-* ✅ Entity Framework
-* ✅ SQL Server
-* ✅ Frontend / Backend Integration
+* Clean Architecture
+* Domain Driven Design (DDD)
+* CQRS
+* SOLID Principles
+* REST APIs
+* Entity Framework
+* Dapper
+* Middlewares
+* Agreggate Root
+* Web Sockets
+* SQL Server
+* Frontend / Backend Integration
 
 ---
 
@@ -117,23 +118,3 @@
 
 ---
 
-<div align="center">
-
-### 🚀 Building, Learning and Growing Every Day
-
-<img src="https://komarev.com/ghpvc/?username=Nico4652&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
