@@ -11,19 +11,14 @@
 
 
 
-<div align="center">
-
-<a href="https://github.com/Nico4652">
-  <img src="https://skillicons.dev/icons?i=github" height="55" />
-</a>
-
-        
-
-<a href="https://www.linkedin.com/in/TU-LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Nico4652">
+    <img src="https://skillicons.dev/icons?i=github" height="55" />
+  </a>
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+  </a>
+</p>
 
 
 
